@@ -1,0 +1,3 @@
+:HL["/DashboardUI-pages/_next/static/chunks/0tjy0p9fq1cdb.css","style"]
+:HL["/DashboardUI-pages/_next/static/chunks/083vxdo799zo7.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"rTC7Ic98K5XdKSesdMBbA"}
