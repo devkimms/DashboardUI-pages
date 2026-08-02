@@ -3,5 +3,5 @@
 3:I[97367,["/DashboardUI-pages/_next/static/chunks/1d4h-sglyo8ft.js","/DashboardUI-pages/_next/static/chunks/14mumt5_n0xhi.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
 :HL["/DashboardUI-pages/_next/static/chunks/1m429x823l2mh.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/DashboardUI-pages/_next/static/chunks/1m429x823l2mh.css","precedence":"next"}],["$","script","script-0",{"src":"/DashboardUI-pages/_next/static/chunks/1ux62qsgcw4bm.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JjT48vOhgMxgW_g8QrlbQ"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/DashboardUI-pages/_next/static/chunks/1m429x823l2mh.css","precedence":"next"}],["$","script","script-0",{"src":"/DashboardUI-pages/_next/static/chunks/1ux62qsgcw4bm.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"16yGZIFn--LXLZlC3HJZ4"}
 5:null
