@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[70468,["/DashboardUI-pages/_next/static/chunks/276ecbvlue6in.js","/DashboardUI-pages/_next/static/chunks/14mumt5_n0xhi.js","/DashboardUI-pages/_next/static/chunks/3vrgftzule7f-.js","/DashboardUI-pages/_next/static/chunks/1d39s1wan3hj6.js"],"Dashboard"]
+2:I[70468,["/DashboardUI-pages/_next/static/chunks/276ecbvlue6in.js","/DashboardUI-pages/_next/static/chunks/14mumt5_n0xhi.js","/DashboardUI-pages/_next/static/chunks/3vrgftzule7f-.js","/DashboardUI-pages/_next/static/chunks/41mfg8ybljtsc.js"],"Dashboard"]
 3:I[97367,["/DashboardUI-pages/_next/static/chunks/276ecbvlue6in.js","/DashboardUI-pages/_next/static/chunks/14mumt5_n0xhi.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-:HL["/DashboardUI-pages/_next/static/chunks/123out24s-kkr.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/DashboardUI-pages/_next/static/chunks/123out24s-kkr.css","precedence":"next"}],["$","script","script-0",{"src":"/DashboardUI-pages/_next/static/chunks/3vrgftzule7f-.js","async":true}],["$","script","script-1",{"src":"/DashboardUI-pages/_next/static/chunks/1d39s1wan3hj6.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Vv8Eq-CLJlQep-FdXe2Q3"}
+:HL["/DashboardUI-pages/_next/static/chunks/3py0833bxwrz2.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/DashboardUI-pages/_next/static/chunks/3py0833bxwrz2.css","precedence":"next"}],["$","script","script-0",{"src":"/DashboardUI-pages/_next/static/chunks/3vrgftzule7f-.js","async":true}],["$","script","script-1",{"src":"/DashboardUI-pages/_next/static/chunks/41mfg8ybljtsc.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"bzascvIK8wKcMup9iTLDX"}
 5:null
